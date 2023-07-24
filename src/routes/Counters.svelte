@@ -2,7 +2,7 @@
 	import { onMount } from 'svelte';
 	import Count from './Count.svelte';
 
-	let colors = ['orange', 'mint', 'red', 'blue', 'green', 'purple'];
+	let colors = ['orange', 'red', 'blue', 'green', 'purple'];
 
 	let counters = [];
 
